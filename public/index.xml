@@ -10,21 +10,21 @@
     <lastBuildDate>Mon, 15 Sep 2025 22:09:21 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My First Post</title>
-      <link>//localhost:1313/events/event1/</link>
+      <title>Jam making festival</title>
+      <link>//localhost:1313/events/event2/</link>
       <pubDate>Mon, 15 Sep 2025 22:09:21 +0000</pubDate>
       
-      <guid>//localhost:1313/events/event1/</guid>
+      <guid>//localhost:1313/events/event2/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>//localhost:1313/events/event2/</link>
+      <title>Leamington Spa Cake Appreciation Day!</title>
+      <link>//localhost:1313/events/event1/</link>
       <pubDate>Mon, 15 Sep 2025 22:09:21 +0000</pubDate>
       
-      <guid>//localhost:1313/events/event2/</guid>
+      <guid>//localhost:1313/events/event1/</guid>
       <description></description>
       
     </item>
