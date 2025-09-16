@@ -1,6 +1,2 @@
-+++
-date = '2025-09-15T22:09:21Z'
-draft = false
-title = 'My First Post'
-+++
-Hello, this is the home page!! 
+
+### No frills, just the fun. Discover what's on in Leamington with a single click.
