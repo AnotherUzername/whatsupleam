@@ -4,31 +4,36 @@
 
   <url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2025-09-15T22:09:21+00:00</lastmod>
+    <lastmod>2025-09-10T19:30:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/events/event3/</loc>
-    <lastmod>2025-09-15T22:09:21+00:00</lastmod>
+    <loc>//localhost:1313/events/music/event1/</loc>
+    <lastmod>2025-09-10T19:30:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>//localhost:1313/events/</loc>
-    <lastmod>2025-09-15T22:09:21+00:00</lastmod>
+    <lastmod>2025-09-10T19:30:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/events/event2/</loc>
-    <lastmod>2025-09-15T22:09:21+00:00</lastmod>
+    <loc>//localhost:1313/events/art/event1/</loc>
+    <lastmod>2025-08-15T10:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/events/event1/</loc>
-    <lastmod>2025-09-15T22:09:21+00:00</lastmod>
+    <loc>//localhost:1313/events/food/event2/</loc>
+    <lastmod>2025-07-20T11:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>//localhost:1313/template/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

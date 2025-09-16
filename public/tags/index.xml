@@ -7,7 +7,97 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copy, _right?_ </copyright>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Sep 2025 19:30:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Concert</title>
+      <link>//localhost:1313/tags/concert/</link>
+      <pubDate>Wed, 10 Sep 2025 19:30:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/concert/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Leamington Spa</title>
+      <link>//localhost:1313/tags/leamington-spa/</link>
+      <pubDate>Wed, 10 Sep 2025 19:30:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/leamington-spa/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Live Music</title>
+      <link>//localhost:1313/tags/live-music/</link>
+      <pubDate>Wed, 10 Sep 2025 19:30:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/live-music/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Orchestra</title>
+      <link>//localhost:1313/tags/orchestra/</link>
+      <pubDate>Wed, 10 Sep 2025 19:30:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/orchestra/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Art Exhibition</title>
+      <link>//localhost:1313/tags/art-exhibition/</link>
+      <pubDate>Fri, 15 Aug 2025 10:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/art-exhibition/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Family Event</title>
+      <link>//localhost:1313/tags/family-event/</link>
+      <pubDate>Fri, 15 Aug 2025 10:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/family-event/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Local Artists</title>
+      <link>//localhost:1313/tags/local-artists/</link>
+      <pubDate>Fri, 15 Aug 2025 10:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/local-artists/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>//localhost:1313/tags/community/</link>
+      <pubDate>Sun, 20 Jul 2025 11:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/community/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cooking</title>
+      <link>//localhost:1313/tags/cooking/</link>
+      <pubDate>Sun, 20 Jul 2025 11:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/cooking/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

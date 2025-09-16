@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Art on What&#39;s Up Leam?</title>
+    <link>//localhost:1313/categories/art/</link>
+    <description>Recent content in Art on What&#39;s Up Leam?</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copy, _right?_ </copyright>
+    <lastBuildDate>Fri, 15 Aug 2025 10:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/art/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Leamington Art Festival 2025</title>
+      <link>//localhost:1313/events/art/event1/</link>
+      <pubDate>Fri, 15 Aug 2025 10:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/events/art/event1/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/art/event1/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

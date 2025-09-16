@@ -7,34 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copy, _right?_ </copyright>
-    <lastBuildDate>Mon, 15 Sep 2025 22:09:21 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Sep 2025 19:30:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Drum and Bass</title>
-      <link>//localhost:1313/events/event3/</link>
-      <pubDate>Mon, 15 Sep 2025 22:09:21 +0000</pubDate>
+      <title>An Evening of Classics: Leamington Chamber Orchestra</title>
+      <link>//localhost:1313/events/music/event1/</link>
+      <pubDate>Wed, 10 Sep 2025 19:30:00 +0000</pubDate>
       
-      <guid>//localhost:1313/events/event3/</guid>
+      <guid>//localhost:1313/events/music/event1/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/music/event1/featured.png" />
     </item>
     
     <item>
-      <title>Jam making festival</title>
-      <link>//localhost:1313/events/event2/</link>
-      <pubDate>Mon, 15 Sep 2025 22:09:21 +0000</pubDate>
+      <title>Leamington Art Festival 2025</title>
+      <link>//localhost:1313/events/art/event1/</link>
+      <pubDate>Fri, 15 Aug 2025 10:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/events/event2/</guid>
+      <guid>//localhost:1313/events/art/event1/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/art/event1/featured.png" />
     </item>
     
     <item>
-      <title>Leamington Spa Cake Appreciation Day!</title>
-      <link>//localhost:1313/events/event1/</link>
-      <pubDate>Mon, 15 Sep 2025 22:09:21 +0000</pubDate>
+      <title>Jam Making in the Park</title>
+      <link>//localhost:1313/events/food/event2/</link>
+      <pubDate>Sun, 20 Jul 2025 11:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/events/event1/</guid>
+      <guid>//localhost:1313/events/food/event2/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/event2/featured.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/template/</guid>
       <description></description>
       
     </item>
