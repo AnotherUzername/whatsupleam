@@ -6,15 +6,13 @@ theme = "blowfish" # UNCOMMENT THIS LINE
 #baseURL = "https://anotheruzername.github.io/whatsupleam/"
 defaultContentLanguage = "en"
 
-buildFuture = true
-
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
 summaryLength = 0
 
 buildDrafts = false
-buildFuture = false
+buildFuture = true
 
 enableEmoji = true
 
