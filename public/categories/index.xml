@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copy, _right?_ </copyright>
-    <lastBuildDate>Wed, 10 Sep 2025 19:30:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Food</title>
+      <link>//localhost:1313/categories/food/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/categories/food/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>//localhost:1313/categories/art/</link>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/categories/art/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>//localhost:1313/categories/music/</link>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/categories/music/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Classical</title>
@@ -20,41 +50,11 @@
     </item>
     
     <item>
-      <title>Music</title>
-      <link>//localhost:1313/categories/music/</link>
-      <pubDate>Wed, 10 Sep 2025 19:30:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/categories/music/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Art</title>
-      <link>//localhost:1313/categories/art/</link>
-      <pubDate>Fri, 15 Aug 2025 10:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/categories/art/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Festival</title>
       <link>//localhost:1313/categories/festival/</link>
       <pubDate>Fri, 15 Aug 2025 10:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/categories/festival/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Food</title>
-      <link>//localhost:1313/categories/food/</link>
-      <pubDate>Sun, 20 Jul 2025 11:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/categories/food/</guid>
       <description></description>
       
     </item>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Food on What&#39;s Up Leam?</title>
+    <link>//localhost:1313/tags/food/</link>
+    <description>Recent content in Food on What&#39;s Up Leam?</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copy, _right?_ </copyright>
+    <lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/food/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pub Quiz</title>
+      <link>//localhost:1313/events/food/20250930pubquizthehouse/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/events/food/20250930pubquizthehouse/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250930pubquizthehouse/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Social Singles Cocktail Mixer</title>
+      <link>//localhost:1313/events/food/20250926socialsinglescocktailmixernomad/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/events/food/20250926socialsinglescocktailmixernomad/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250926socialsinglescocktailmixernomad/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Pub Quiz</title>
+      <link>//localhost:1313/events/food/20250925pubquizthehouse/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/events/food/20250925pubquizthehouse/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250925pubquizthehouse/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Pub Quiz</title>
+      <link>//localhost:1313/events/food/20250923pubquizthehouse/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/events/food/20250923pubquizthehouse/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250923pubquizthehouse/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Weekly Market Launch</title>
+      <link>//localhost:1313/events/food/20250919weeklymarketlaunchhollywalk/</link>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/events/food/20250919weeklymarketlaunchhollywalk/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250919weeklymarketlaunchhollywalk/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Pub Quiz</title>
+      <link>//localhost:1313/events/food/20250918pubquizthehouse/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/events/food/20250918pubquizthehouse/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250918pubquizthehouse/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
