@@ -7,7 +7,97 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copy, _right?_ </copyright>
-    <lastBuildDate>Wed, 10 Sep 2025 19:30:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Comedy Club</title>
+      <link>//localhost:1313/events/food/20250930comedyclubthehouse/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/events/food/20250930comedyclubthehouse/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250930comedyclubthehouse/featured.png" />
+    </item>
+    
+    <item>
+      <title>Covent Garden Quarter Markets</title>
+      <link>//localhost:1313/events/food/20250928coventgardenquartermarketscoventgardenquarter/</link>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/events/food/20250928coventgardenquartermarketscoventgardenquarter/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250928coventgardenquartermarketscoventgardenquarter/featured.png" />
+    </item>
+    
+    <item>
+      <title>The Ultimate House Party</title>
+      <link>//localhost:1313/events/food/20250927theultimatehousepartythehouse/</link>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/events/food/20250927theultimatehousepartythehouse/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250927theultimatehousepartythehouse/featured.png" />
+    </item>
+    
+    <item>
+      <title>Social Singles Cocktail Mixer</title>
+      <link>//localhost:1313/events/food/20250926socialsinglescocktailmixernomad/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/events/food/20250926socialsinglescocktailmixernomad/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250926socialsinglescocktailmixernomad/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Pub Quiz</title>
+      <link>//localhost:1313/events/food/20250925pubquizthehouse/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/events/food/20250925pubquizthehouse/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250925pubquizthehouse/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Comedy Club</title>
+      <link>//localhost:1313/events/food/20250923comedyclubthehouse/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/events/food/20250923comedyclubthehouse/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250923comedyclubthehouse/featured.png" />
+    </item>
+    
+    <item>
+      <title>Weekly Market Launch</title>
+      <link>//localhost:1313/events/food/20250919weeklymarketlaunchhollywalk/</link>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/events/food/20250919weeklymarketlaunchhollywalk/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250919weeklymarketlaunchhollywalk/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Pub Quiz</title>
+      <link>//localhost:1313/events/food/20250918pubquiz/</link>
+      <pubDate>Thu, 18 Sep 2025 20:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/events/food/20250918pubquiz/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250918pubquiz/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pub Quiz</title>
+      <link>//localhost:1313/events/food/20250918pubquizthehouse/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/events/food/20250918pubquizthehouse/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250918pubquizthehouse/featured.jpg" />
+    </item>
     
     <item>
       <title>An Evening of Classics: Leamington Chamber Orchestra</title>

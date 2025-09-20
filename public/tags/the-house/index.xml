@@ -10,13 +10,13 @@
     <lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/the-house/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Pub Quiz</title>
-      <link>//localhost:1313/events/food/20250930pubquizthehouse/</link>
+      <title>Comedy Club</title>
+      <link>//localhost:1313/events/food/20250930comedyclubthehouse/</link>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/events/food/20250930pubquizthehouse/</guid>
+      <guid>//localhost:1313/events/food/20250930comedyclubthehouse/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250930pubquizthehouse/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250930comedyclubthehouse/featured.png" />
     </item>
     
     <item>
@@ -40,13 +40,13 @@
     </item>
     
     <item>
-      <title>Pub Quiz</title>
-      <link>//localhost:1313/events/food/20250923pubquizthehouse/</link>
+      <title>Comedy Club</title>
+      <link>//localhost:1313/events/food/20250923comedyclubthehouse/</link>
       <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/events/food/20250923pubquizthehouse/</guid>
+      <guid>//localhost:1313/events/food/20250923comedyclubthehouse/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250923pubquizthehouse/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250923comedyclubthehouse/featured.png" />
     </item>
     
     <item>

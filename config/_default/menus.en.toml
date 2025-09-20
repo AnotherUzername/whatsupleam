@@ -15,34 +15,34 @@
   pageRef = "events"
   weight = 0
 
-[[main]]
-  name = "About"
-  weight = 20
-  
-[[main]]
-  name = "Music"
-  pageRef = "events/music"
-  weight = 10
+#[[main]]
+#  name = "About"
+##  weight = 20
+#  
+#[[main]]
+#  name = "Music"
+##  pageRef = "events/music"
+#  weight = 10
 
-[[main]]
-  name = "Art"
-  pageRef = "events/art"
-  weight = 10
+#[[main]]
+#  name = "Art"
+#  pageRef = "events/art"
+#  weight = 10
 
-[[main]]
-  name = "Sport"
-  pageRef = "events/sport"
-  weight = 10
+#[[main]]
+#  name = "Sport"
+#  pageRef = "events/sport"
+#  weight = 10
 
-[[main]]
-  name = "Food"
-  pageRef = "events/food"
-  weight = 10
+#[[main]]
+#  name = "Food"
+#  pageRef = "events/food"
+#  weight = 10
 
-[[main]]
-  name = "Nature"
-  pageRef = "events"
-  weight = 10
+#[[main]]
+#  name = "Nature"
+#  pageRef = "events"
+#  weight = 10
 
 
 #[[main]]
