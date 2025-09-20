@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Covent Garden Quarter, Leamington Spa on What&#39;s Up Leam?</title>
+    <link>//localhost:1313/tags/covent-garden-quarter-leamington-spa/</link>
+    <description>Recent content in Covent Garden Quarter, Leamington Spa on What&#39;s Up Leam?</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copy, _right?_ </copyright>
+    <lastBuildDate>Sun, 28 Sep 2025 10:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/covent-garden-quarter-leamington-spa/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Covent Garden Quarter Markets</title>
+      <link>//localhost:1313/events/food/20250928coventgardenquartermarketscoventgardenquarterleamingtonspa/</link>
+      <pubDate>Sun, 28 Sep 2025 10:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/events/food/20250928coventgardenquartermarketscoventgardenquarterleamingtonspa/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250928coventgardenquartermarketscoventgardenquarterleamingtonspa/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

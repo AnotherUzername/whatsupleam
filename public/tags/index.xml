@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copy, _right?_ </copyright>
-    <lastBuildDate>Wed, 10 Sep 2025 19:30:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Concert</title>
-      <link>//localhost:1313/tags/concert/</link>
-      <pubDate>Wed, 10 Sep 2025 19:30:00 +0000</pubDate>
+      <title>Food</title>
+      <link>//localhost:1313/tags/food/</link>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/concert/</guid>
+      <guid>//localhost:1313/tags/food/</guid>
       <description></description>
       
     </item>
@@ -22,9 +22,129 @@
     <item>
       <title>Leamington Spa</title>
       <link>//localhost:1313/tags/leamington-spa/</link>
-      <pubDate>Wed, 10 Sep 2025 19:30:00 +0000</pubDate>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/tags/leamington-spa/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Holly Walk, Leamington Spa</title>
+      <link>//localhost:1313/tags/holly-walk-leamington-spa/</link>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/holly-walk-leamington-spa/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Leamington</title>
+      <link>//localhost:1313/tags/leamington/</link>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/leamington/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Nature</title>
+      <link>//localhost:1313/tags/nature/</link>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/nature/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Holly Walk</title>
+      <link>//localhost:1313/tags/holly-walk/</link>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/holly-walk/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Entertainment</title>
+      <link>//localhost:1313/tags/entertainment/</link>
+      <pubDate>Thu, 02 Oct 2025 20:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/entertainment/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The House</title>
+      <link>//localhost:1313/tags/the-house/</link>
+      <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/the-house/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Art</title>
+      <link>//localhost:1313/tags/art/</link>
+      <pubDate>Sun, 28 Sep 2025 10:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/art/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Covent Garden Quarter, Leamington Spa</title>
+      <link>//localhost:1313/tags/covent-garden-quarter-leamington-spa/</link>
+      <pubDate>Sun, 28 Sep 2025 10:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/covent-garden-quarter-leamington-spa/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Covent Garden Quarter</title>
+      <link>//localhost:1313/tags/covent-garden-quarter/</link>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/covent-garden-quarter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Music</title>
+      <link>//localhost:1313/tags/music/</link>
+      <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/music/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Nomad</title>
+      <link>//localhost:1313/tags/nomad/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/nomad/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Concert</title>
+      <link>//localhost:1313/tags/concert/</link>
+      <pubDate>Wed, 10 Sep 2025 19:30:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/concert/</guid>
       <description></description>
       
     </item>

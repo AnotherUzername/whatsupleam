@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copy, _right?_ </copyright>
-    <lastBuildDate>Tue, 30 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/entertainment/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Oct 2025 20:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/entertainment/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pub Quiz</title>
+      <link>//localhost:1313/events/food/20251002pubquiz/</link>
+      <pubDate>Thu, 02 Oct 2025 20:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/events/food/20251002pubquiz/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20251002pubquiz/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pub Quiz</title>
+      <link>//localhost:1313/events/food/20250930pubquiz/</link>
+      <pubDate>Tue, 30 Sep 2025 20:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/events/food/20250930pubquiz/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250930pubquiz/featured.png" />
+    </item>
     
     <item>
       <title>Comedy Club</title>
@@ -17,6 +37,26 @@
       <guid>//localhost:1313/events/food/20250930comedyclubthehouse/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250930comedyclubthehouse/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pub Quiz</title>
+      <link>//localhost:1313/events/food/20250925pubquiz/</link>
+      <pubDate>Thu, 25 Sep 2025 20:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/events/food/20250925pubquiz/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250925pubquiz/featured.png" />
+    </item>
+    
+    <item>
+      <title>Pub Quiz</title>
+      <link>//localhost:1313/events/food/20250923pubquiz/</link>
+      <pubDate>Tue, 23 Sep 2025 20:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/events/food/20250923pubquiz/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/events/food/20250923pubquiz/featured.png" />
     </item>
     
     <item>
